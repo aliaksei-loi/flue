@@ -19,7 +19,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^2.2.0",
-		"@earendil-works/pi-coding-agent": "^0.78.1",
+		"@earendil-works/pi-coding-agent": "^0.79.0",
 		"@flue/sdk": "workspace:*",
 		"@types/node": "^22.10.10",
 		"bgproc": "^0.2.0",
